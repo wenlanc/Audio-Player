@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>play.png</file>
+        <file>pause.png</file>
+        <file>2020 Eventshd Logo.png</file>
+        <file>played.png</file>
+    </qresource>
+</RCC>
